@@ -1,0 +1,520 @@
+{
+  "profile": {
+    "fullName": "Dr. Kifayat Khan",
+    "title": "Clinical Physiotherapist",
+    "jobTitles": [
+      "Sports Physical Therapist",
+      "Head of Department",
+      "Clinical Physiotherapist"
+    ],
+    "experienceYears": 4,
+    "statement": "Four years of physiotherapy experience dedicated to helping people improve their health, mobility, and quality of life.",
+    "aboutBio": "Dr. Kifayat Khan is a distinguished Clinical Physiotherapist and Sports Physical Therapist practicing in Blue Area, Islamabad. With over four years of specialized clinical experience, Dr. Khan has successfully rehabilitated athletes, post-surgical patients, and individuals suffering from acute and chronic neuromusculoskeletal conditions. Holding a Doctor of Physical Therapy (DPT) degree from Khyber Medical University, he merges advanced manual therapy techniques, evidence-based exercise prescription, and postural retraining to restore optimal movement and pain-free function.",
+    "phone": "03138161676",
+    "whatsapp": "923138161676",
+    "email": "drkifayatkhan.pt@gmail.com",
+    "address": {
+      "room": "Room #607",
+      "floor": "6th Floor",
+      "building": "Mall of Islamabad",
+      "street": "Jinnah Ave",
+      "block": "Block J",
+      "area": "Blue Area, Area F 7/1",
+      "city": "Islamabad",
+      "postalCode": "44210",
+      "country": "Pakistan"
+    },
+    "googleMapsUrl": "https://www.google.com/maps/place/Dr+Kifayat+khan+(Clinical+Physiotherapist)/@33.7135544,73.0599846,17z/data=!3m1!4b1!4m6!3m5!1s0x38dfedff26a96283:0x4dd185e922ba290c!8m2!3d33.7135544!4d33.0599846!16s%2Fg%2F11vp_ytx3w?hl=en-GB",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/share/1QHUMWEYrL/",
+      "tiktok": "https://www.tiktok.com/@drkaifpt",
+      "whatsapp": "https://wa.me/923138161676",
+      "linkedin": "https://www.linkedin.com/in/dr-kifayat-khan-670672156/"
+    },
+    "timings": "Monday – Saturday: 10:00 AM – 08:00 PM (By Appointment)"
+  },
+  "videos": [
+    {
+      "id": "vid-1",
+      "title": "Correcting Lower Back Pain: 3 Essential Mobility & Decompression Drills",
+      "description": "Dr. Kifayat Khan demonstrates clinical decompression techniques and core bracing exercises designed to alleviate acute lumbar strain, disc compression, and muscle guarding.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&w=1000&auto=format&fit=crop",
+      "duration": "4:35",
+      "category": "Spine Health",
+      "createdAt": "2026-08-10",
+      "isUploaded": false
+    },
+    {
+      "id": "vid-2",
+      "title": "Sports Physical Therapy: Knee ACL & Meniscus Rehabilitation Protocol",
+      "description": "A walkthrough of progressive closed-chain exercises, quad activation drills, and hamstring balance protocols used at Dr. Kifayat Khan's clinic in Mall of Islamabad.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1000&auto=format&fit=crop",
+      "duration": "6:15",
+      "category": "Sports Rehab",
+      "createdAt": "2026-08-22",
+      "isUploaded": false
+    },
+    {
+      "id": "vid-3",
+      "title": "Desk Neck Stiffness & Forward Head Posture: Clinical Manual Exercises",
+      "description": "Targeting cervical facet joints and suboccipital tension headaches. Simple, powerful exercises for desk workers in Islamabad's corporate sectors.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=1000&auto=format&fit=crop",
+      "duration": "5:20",
+      "category": "Ergonomics",
+      "createdAt": "2026-09-02",
+      "isUploaded": false
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog-1",
+      "title": "Modern Management of Sports Injuries: Why Early Mobilization Beats Prolonged Rest",
+      "slug": "modern-management-of-sports-injuries",
+      "summary": "Explore why modern sports physiotherapy has moved past the traditional RICE protocol to PEACE & LOVE, prioritizing active kinetic loading and safe recovery.",
+      "content": "## The Evolution of Sports Injury Care\n\nFor decades, athletes suffering acute ankle sprains, hamstring pulls, or ligament trauma were instructed to adhere strictly to the R.I.C.E. protocol (Rest, Ice, Compression, Elevation). However, contemporary sports medicine and clinical research have shown that prolonged immobilization and excessive ice application can actually delay cellular healing and tissue regeneration.\n\n### The PEACE & LOVE Framework\n\nIn our clinical practice at **Mall of Islamabad**, we implement evidence-guided protocols:\n\n1. **P - Protect**: Unload and minimize movement for the first 24–48 hours to avoid worsening injury.\n2. **E - Elevate**: Allow excess interstitial fluids to drain.\n3. **A - Avoid Anti-Inflammatory Modalities**: Inflammation is the primary biological healing response.\n4. **C - Compress**: Use supportive elastic taping or wraps.\n5. **E - Educate**: Teach the athlete about their body’s natural timeline.\n\nAfter the acute phase, we transition into **L.O.V.E.**:\n- **Load**: Active mechanical stress promotes collagen remodeling.\n- **Optimism**: Cognitive confidence prevents guarded gait patterns.\n- **Vascularization**: Low-impact cardiovascular training drives oxygenated blood.\n- **Exercise**: Restores functional strength, joint proprioception, and agility.\n\n### Practical Advice for Athletes in Islamabad\n\nIf you experience an acute sports injury during football, cricket, running, or gym training, seek a clinical evaluation early. A targeted biomechanical plan ensures you return to sport faster, stronger, and protected from recurring strains.",
+      "category": "Sports Medicine",
+      "author": "Dr. Kifayat Khan",
+      "authorRole": "Clinical Physiotherapist & Sports Specialist",
+      "coverImage": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=1200&auto=format&fit=crop",
+      "publishedAt": "2026-09-05",
+      "readTime": "5 min read",
+      "tags": [
+        "Sports Injury",
+        "Rehabilitation",
+        "ACL",
+        "Athletics",
+        "Recovery"
+      ],
+      "featured": true
+    },
+    {
+      "id": "blog-2",
+      "title": "Understanding Sciatica and Lumbar Disc Herniation: Conservative Treatment vs Surgery",
+      "slug": "understanding-sciatica-and-lumbar-disc-herniation",
+      "summary": "A clinical guide on how targeted manual therapy, nerve glides, and progressive spinal decompression alleviate sciatic nerve pain without surgical interventions.",
+      "content": "## What Truly Causes Sciatic Nerve Pain?\n\nThe sciatic nerve is the thickest and longest nerve in the human body, running from the lower back through the hips, buttocks, and down each leg. When a lumbar intervertebral disc bulges or herniates (most commonly at L4-L5 or L5-S1), it exerts mechanical compression and biochemical irritation against the nerve root.\n\n### Common Symptoms Include:\n\n- Sharp, shooting electric-like pain traveling from the lower back into the calf or foot\n- Burning sensation or persistent numbness along the leg\n- Increased pain when sitting or bending forward\n- Muscular weakness in the ankle or toes\n\n### The Power of Conservative Physiotherapy\n\nOver 85% to 90% of lumbar disc herniations resolve successfully with skilled, conservative clinical physiotherapy. At our clinic in Blue Area, Islamabad, we employ a three-tier clinical approach:\n\n1. **Manual Therapy & Decompression**: Gentle mechanical techniques to open the neural foramina and relieve direct nerve irritation.\n2. **Neurodynamic Mobilization (Nerve Flossing)**: Specialized gliding maneuvers that restore free excursion of the sciatic nerve without traction.\n3. **Core Stabilization & Directional Preference**: Identifying whether extension (McKenzie method) or neutral bracing stabilizes the disc tissue.\n\nSurgery is only indicated in emergencies (such as cauda equina syndrome or progressive motor paralysis). With structured care, most patients resume full, active lives within weeks.",
+      "category": "Spine Health",
+      "author": "Dr. Kifayat Khan",
+      "authorRole": "Clinical Physiotherapist",
+      "coverImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop",
+      "publishedAt": "2026-08-28",
+      "readTime": "6 min read",
+      "tags": [
+        "Sciatica",
+        "Spine Health",
+        "Manual Therapy",
+        "Back Pain",
+        "Disc Bulge"
+      ]
+    },
+    {
+      "id": "blog-3",
+      "title": "Ergonomics for Corporate Professionals: Preventing Neck Strain in the Modern Workplace",
+      "slug": "ergonomics-for-corporate-professionals",
+      "summary": "Practical biomechanical strategies to eliminate 'Tech Neck', upper back tension, and tension headaches caused by prolonged workstation posture.",
+      "content": "## The Modern Epidemic of 'Tech Neck'\n\nIn Islamabad's bustling corporate centers, tech hubs, and government agencies, professionals spend 8 to 10 hours daily hunched over laptops and smartphones. For every inch your head tilts forward, the effective weight exerted on the cervical spine increases exponentially—from 10-12 lbs in neutral to nearly 40-50 lbs at a 45-degree angle.\n\n### Biomechanical Consequences\n\n- Chronic tightness in the upper trapezius and levator scapulae\n- Weakened deep cervical flexors and lower traps (Upper Crossed Syndrome)\n- Cervicogenic headaches radiating to the forehead and behind the eyes\n- Early degenerative changes in cervical disc spaces\n\n### 4 Essential Ergonomic Adjustments\n\n1. **Eye-Level Screen Alignment**: Elevate your laptop or monitor so the top third of the screen is at natural eye height.\n2. **90-90-90 Seating Rule**: Ensure your elbows, hips, and knees form comfortable 90-degree angles with feet flat on the floor.\n3. **The 30-Minute Micro-Break**: Every 30 minutes, perform 5 chin tucks and 5 scapular retractions.\n4. **Chest Opener Stretch**: Place hands behind your head, gently inhale, and open elbows wide to expand the ribcage and thoracic spine.",
+      "category": "Ergonomics",
+      "author": "Dr. Kifayat Khan",
+      "authorRole": "Clinical Physiotherapist",
+      "coverImage": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=1200&auto=format&fit=crop",
+      "publishedAt": "2026-08-15",
+      "readTime": "4 min read",
+      "tags": [
+        "Ergonomics",
+        "Tech Neck",
+        "Posture",
+        "Wellness",
+        "Workplace Health"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "clinical-physiotherapy",
+      "title": "Clinical Physiotherapy",
+      "shortDesc": "Comprehensive clinical assessments and targeted interventions for acute and chronic musculoskeletal dysfunctions.",
+      "fullDesc": "Dr. Kifayat Khan provides hands-on orthopedic assessments followed by personalized rehabilitation regimens. Using biomechanical analysis, joint mobilization, and neuromuscular re-education, we address back pain, neck stiffness, osteoarthritis, and postural imbalances.",
+      "iconName": "Stethoscope",
+      "category": "Clinical Care",
+      "indications": [
+        "Chronic back & neck pain",
+        "Sciatica & disc issues",
+        "Joint osteoarthritis",
+        "Frozen shoulder",
+        "Postural kyphosis"
+      ],
+      "benefits": [
+        "Rapid pain reduction without heavy narcotics",
+        "Restored joint range of motion",
+        "Long-term functional stability"
+      ],
+      "featured": true
+    },
+    {
+      "id": "sports-injury-rehabilitation",
+      "title": "Sports Injury Rehabilitation",
+      "shortDesc": "Specialized recovery protocols tailored for athletes to safely return to sport at peak performance levels.",
+      "fullDesc": "With a background as a Sports Physical Therapist and competitive sportsman, Dr. Khan treats acute sports trauma including ligament tears (ACL/MCL), ankle sprains, hamstring strains, rotator cuff injuries, and tennis elbow using progressive loading and kinetic chain optimization.",
+      "iconName": "Activity",
+      "category": "Sports Medicine",
+      "indications": [
+        "ACL & meniscus tears",
+        "Ankle inversion sprains",
+        "Rotator cuff impingement",
+        "Hamstring & groin strains",
+        "Runner's knee"
+      ],
+      "benefits": [
+        "Targeted sport-specific agility drills",
+        "Accelerated tissue remodeling",
+        "Reduced reinjury probability"
+      ],
+      "featured": true
+    },
+    {
+      "id": "neurological-rehabilitation",
+      "title": "Neurological Rehabilitation",
+      "shortDesc": "Evidence-based therapy restoring motor coordination, balance, and neuroplasticity for neurological conditions.",
+      "fullDesc": "Specialized neuro-rehabilitation helping patients retrain neurological pathways. We assist individuals recovering from stroke, Parkinson's disease, peripheral neuropathies, Bell's palsy, and spinal cord injuries through gait retraining and neuromuscular stimulation.",
+      "iconName": "Brain",
+      "category": "Neurology",
+      "indications": [
+        "Post-stroke recovery",
+        "Parkinson's mobility difficulties",
+        "Bell's palsy facial weakness",
+        "Balance & vestibular disorders"
+      ],
+      "benefits": [
+        "Improved neuroplastic motor retraining",
+        "Enhanced balance and fall prevention",
+        "Greater functional independence"
+      ],
+      "featured": true
+    },
+    {
+      "id": "manual-therapy",
+      "title": "Manual Therapy",
+      "shortDesc": "Skilled passive movements of joints and soft tissues to reduce pain, spasms, and mechanical restrictions.",
+      "fullDesc": "Hands-on treatments including Maitland and Mulligan mobilization techniques, soft tissue release, trigger point deactivation, and gentle spinal alignment to relieve stiffness, decrease inflammation, and stimulate natural healing.",
+      "iconName": "HandMetal",
+      "category": "Clinical Care",
+      "indications": [
+        "Cervical & lumbar facet locks",
+        "Myofascial pain syndrome",
+        "Tension headaches",
+        "Thoracic mobility restrictions"
+      ],
+      "benefits": [
+        "Immediate mechanical decompression",
+        "Relief of hypertonic muscle knots",
+        "Stimulates synovial lubrication"
+      ]
+    },
+    {
+      "id": "exercise-prescription",
+      "title": "Exercise Prescription",
+      "shortDesc": "Scientifically structured exercise regimens tailored precisely to patient strength, pathology, and goals.",
+      "fullDesc": "Exercises are medicine when prescribed in exact dosages. Dr. Khan formulates progressive resistance, eccentric loading, core stability, and flexibility programs engineered to strengthen vulnerable segments.",
+      "iconName": "Dumbbell",
+      "category": "Active Rehabilitation",
+      "indications": [
+        "Muscular atrophy",
+        "Post-operative weakness",
+        "Core instability",
+        "Tendinopathies"
+      ],
+      "benefits": [
+        "Progressive measurable strength gains",
+        "Custom home exercise roadmap",
+        "Empowered self-management"
+      ]
+    },
+    {
+      "id": "injury-prevention",
+      "title": "Injury Prevention",
+      "shortDesc": "Proactive screening, movement analysis, and ergonomic education to prevent overuse and breakdown.",
+      "fullDesc": "Targeted screenings for corporate professionals, gym enthusiasts, and competitive athletes. We identify muscular imbalances, biomechanical flaws, and workspace ergonomic hazards before they result in debilitating injuries.",
+      "iconName": "ShieldCheck",
+      "category": "Preventative Care",
+      "indications": [
+        "Desk-bound workers",
+        "Marathoners & gym athletes",
+        "Repetitive strain risk",
+        "Poor lifting mechanics"
+      ],
+      "benefits": [
+        "Early detection of kinetic asymmetries",
+        "Optimized ergonomic workstations",
+        "Sustainable training longevity"
+      ]
+    },
+    {
+      "id": "treatment-planning",
+      "title": "Treatment Planning",
+      "shortDesc": "Structured multi-phase clinical roadmaps with clear milestones, objective testing, and outcome metrics.",
+      "fullDesc": "Every patient receives a personalized treatment plan outlining acute phase pain control, subacute functional recovery, and final strengthening, ensuring transparent timelines and measurable milestones.",
+      "iconName": "ClipboardList",
+      "category": "Clinical Care",
+      "indications": [
+        "Complex multi-joint injuries",
+        "Post-surgical rehabilitation",
+        "Chronic unresolved pain"
+      ],
+      "benefits": [
+        "Transparent milestone tracking",
+        "Holistic timeline expectations",
+        "Structured evidence-based approach"
+      ]
+    },
+    {
+      "id": "fitness-training",
+      "title": "Fitness Training",
+      "shortDesc": "Medically supervised physical conditioning designed to build functional cardiovascular and muscular resilience.",
+      "fullDesc": "Bridging the gap between rehabilitation and athletic conditioning. Dr. Khan guides individuals safely through strength, power, and cardiovascular training while safeguarding prior injury sites.",
+      "iconName": "Zap",
+      "category": "Conditioning",
+      "indications": [
+        "Post-rehab transition",
+        "General cardiovascular deconditioning",
+        "Weight management mobility"
+      ],
+      "benefits": [
+        "Safe, medically vetted exercise progressions",
+        "Fat loss and metabolic boost",
+        "Enhanced physical stamina"
+      ]
+    },
+    {
+      "id": "pilates-training",
+      "title": "Pilates Training",
+      "shortDesc": "Clinical Pilates instruction emphasizing pelvic control, deep core stabilization, and spinal elongation.",
+      "fullDesc": "Clinical Pilates sessions designed for spinal rehabilitation and dynamic balance. Focuses on the transverse abdominis, multifidus, and pelvic floor muscles to relieve chronic lumbar tension and improve posture.",
+      "iconName": "Sparkles",
+      "category": "Conditioning",
+      "indications": [
+        "Chronic lower back weakness",
+        "Postpartum pelvic instability",
+        "Desk posture slouching"
+      ],
+      "benefits": [
+        "Deep core activation",
+        "Improved posture alignment",
+        "Gentle non-impact muscular toning"
+      ]
+    },
+    {
+      "id": "physical-therapy-and-rehabilitation",
+      "title": "Physical Therapy & Rehabilitation",
+      "shortDesc": "Comprehensive restorative care combining electrotherapy, cryotherapy, thermal modalities, and active kinetics.",
+      "fullDesc": "A complete therapeutic ecosystem utilizing therapeutic ultrasound, TENS, heat/cold therapies, and progressive therapeutic movement to speed cellular recovery and restore pain-free vitality.",
+      "iconName": "HeartPulse",
+      "category": "Clinical Care",
+      "indications": [
+        "Post-orthopedic surgery (fractures/replacements)",
+        "Workplace repetitive strains",
+        "Generalized stiffness"
+      ],
+      "benefits": [
+        "Faster tissue healing response",
+        "Edema and swelling reduction",
+        "Full return to daily lifestyle"
+      ]
+    },
+    {
+      "id": "patient-education",
+      "title": "Patient Education",
+      "shortDesc": "Empowering patients with in-depth knowledge regarding pain neuroscience, anatomy, and lifestyle ergonomics.",
+      "fullDesc": "Healing begins when patients understand their condition. Dr. Khan provides clear anatomic explanations, lifting technique coaching, ergonomic guidelines, and self-care strategies that prevent dependency and fear of movement.",
+      "iconName": "GraduationCap",
+      "category": "Preventative Care",
+      "indications": [
+        "Kinesiophobia (fear of movement)",
+        "Recurrent flare-ups",
+        "Ergonomic confusion"
+      ],
+      "benefits": [
+        "Demystified diagnosis",
+        "High compliance and confidence",
+        "Permanent behavioral adjustments"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "Khyber Medical University",
+      "degree": "Doctor of Physical Therapy (DPT)",
+      "field": "Physiotherapy",
+      "duration": "October 2014 – May 2020",
+      "grade": "Grade B",
+      "activities": "Active Sportsman & University Athletic Member",
+      "location": "Peshawar / Khyber Pakhtunkhwa, Pakistan",
+      "highlights": [
+        "Rigorous 5-year clinical doctoral curriculum encompassing human anatomy, biomechanics, neuro-rehabilitation, and orthopedics.",
+        "Comprehensive rotations across tertiary care teaching hospitals in surgical, outpatient orthopedic, and ICU rehabilitation wards.",
+        "Active sportsman participating in inter-university athletic and sports physiotherapy demonstrations."
+      ]
+    },
+    {
+      "id": "edu-2",
+      "institution": "PEF University College, Peshawar",
+      "degree": "Faculty of Science (FSc)",
+      "field": "Pre-Medicine / Pre-Medical Studies",
+      "duration": "2012 – 2014",
+      "location": "Peshawar, Pakistan",
+      "highlights": [
+        "Extensive coursework in advanced biology, human physiology, organic chemistry, and physics.",
+        "High academic standing qualifying for competitive admission to Khyber Medical University DPT doctoral program."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Clinical & Medical Sciences",
+      "description": "Foundational anatomical expertise and clinical diagnostic acumen",
+      "skills": [
+        {
+          "name": "Physiology",
+          "description": "Deep understanding of musculoskeletal and neuromuscular systems"
+        },
+        {
+          "name": "Anatomy",
+          "description": "Mastery of human musculoskeletal and neurovascular anatomy"
+        },
+        {
+          "name": "Treatment Planning",
+          "description": "Design of structured clinical care pathways and milestones"
+        },
+        {
+          "name": "Exercise Prescription",
+          "description": "Biomechanical calculation of therapeutic exercise loads"
+        },
+        {
+          "name": "Patient Education",
+          "description": "Translating complex pathology into clear, actionable recovery steps"
+        },
+        {
+          "name": "Healthcare Professionals",
+          "description": "Interdisciplinary collaboration with surgeons, physicians, and radiologists"
+        }
+      ]
+    },
+    {
+      "title": "Manual & Physical Therapy",
+      "description": "Hands-on spinal, joint, and soft-tissue therapeutic disciplines",
+      "skills": [
+        {
+          "name": "Manual Therapy",
+          "description": "Joint mobilizations, soft-tissue myofascial release & neuromuscular trigger relief"
+        },
+        {
+          "name": "Physical Therapy",
+          "description": "Comprehensive therapeutic rehabilitation modalities and movement restoration"
+        },
+        {
+          "name": "Rehabilitation",
+          "description": "Post-operative, traumatic, and degenerative tissue restorative protocols"
+        },
+        {
+          "name": "Sports Chiropractic",
+          "description": "Functional biomechanical alignment and extremity joint mobilization"
+        },
+        {
+          "name": "Chiropractic",
+          "description": "Spinal mechanics evaluation and postural decompression techniques"
+        }
+      ]
+    },
+    {
+      "title": "Sports Medicine & Prevention",
+      "description": "Athletic performance enhancement and trauma mitigation",
+      "skills": [
+        {
+          "name": "Sports Medicine",
+          "description": "Evidence-based injury diagnosis, pitch-side triage, and athletic recovery"
+        },
+        {
+          "name": "Sports Science",
+          "description": "Kinematics, load management, and physiological conditioning analysis"
+        },
+        {
+          "name": "Sports Injuries",
+          "description": "Specialized rehabilitation for tears, sprains, impingements, and fractures"
+        },
+        {
+          "name": "Injury Prevention",
+          "description": "Pre-season screenings, movement screening, and kinetic fault correction"
+        },
+        {
+          "name": "Prevention",
+          "description": "Proactive ergonomic and lifestyle interventions minimizing relapse"
+        },
+        {
+          "name": "Neurological Rehabilitation",
+          "description": "Neuroplastic motor re-education and gait training for neurological conditions"
+        }
+      ]
+    },
+    {
+      "title": "Active Conditioning & Instruction",
+      "description": "Functional strength, stability, and movement retraining",
+      "skills": [
+        {
+          "name": "Fitness Training",
+          "description": "Medically monitored strength and conditioning programs"
+        },
+        {
+          "name": "Pilates Trainer",
+          "description": "Core stabilization, pelvic mechanics, and spinal elongation instruction"
+        },
+        {
+          "name": "Fitness Instruction",
+          "description": "Safe biomechanical coaching for gym athletes and active patients"
+        }
+      ]
+    },
+    {
+      "title": "Professional Attributes",
+      "description": "Patient-centered care ethics and clinical operations",
+      "skills": [
+        {
+          "name": "Healthcare",
+          "description": "Commitment to strict medical ethics, hygiene, and patient safety"
+        },
+        {
+          "name": "Flexible Approach",
+          "description": "Adapting clinical strategies dynamically based on patient response"
+        },
+        {
+          "name": "Organization Skills",
+          "description": "Accurate clinical documentation, scheduling, and protocol tracking"
+        },
+        {
+          "name": "Hard Work",
+          "description": "Dedicated follow-up and tireless devotion to patient recovery"
+        },
+        {
+          "name": "Professional Behavior",
+          "description": "Compassionate bedside manner, active listening, and integrity"
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "fullName": "Hamza Malik",
+      "email": "hamza.m@gmail.com",
+      "phone": "03001234567",
+      "subject": "Sports Injury Consultation - Ankle Sprain",
+      "message": "Suffered a grade 2 inversion ankle sprain during weekend football match in F-8. Need manual assessment and rehabilitation exercises.",
+      "preferredDate": "2026-09-18",
+      "service": "Sports Injury Rehabilitation",
+      "createdAt": "2026-09-17T07:17:14.703Z",
+      "status": "new"
+    }
+  ]
+}
