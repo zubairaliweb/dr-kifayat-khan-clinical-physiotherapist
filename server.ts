@@ -18,8 +18,9 @@ import {
 const app = express();
 const MONGODB_URI = process.env.MONGODB_URI;
 const MONGODB_DB_NAME = process.env.MONGODB_DB_NAME || "physiotherapy_portal";
-const DB_FILE = path.join(process.cwd(), "data", "database.json");
-const UPLOADS_DIR = path.join(process.cwd(), "uploads");
+const STORAGE_ROOT = process.env.VERCEL === "1" ? "/tmp/physiotherapy-portal" : process.cwd();
+const DB_FILE = path.join(STORAGE_ROOT, "data", "database.json");
+const UPLOADS_DIR = path.join(STORAGE_ROOT, "uploads");
 const VIDEO_UPLOADS = path.join(UPLOADS_DIR, "videos");
 const BLOG_UPLOADS = path.join(UPLOADS_DIR, "blogs");
 
