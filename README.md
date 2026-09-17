@@ -43,7 +43,7 @@ npm start
 
 ## Deployment
 
-This project is ready for standard Node hosting environments such as Render, Railway, Heroku, or a VPS.
+This project is ready for standard Node hosting environments such as Render, Railway, Heroku, or a VPS. It also includes a Vercel serverless API entrypoint in `api/index.ts`.
 
 Required environment variables:
 
@@ -72,6 +72,16 @@ npm install
 npm run build
 npm start
 ```
+
+### Vercel deployment
+
+Import the repository into Vercel and set these environment variables in the Vercel project settings for **Production**, **Preview**, and **Development**:
+
+- `ADMIN_PASSWORD` — the password used in the admin login form
+- `ADMIN_TOKEN` — a long random token, different from the password
+- `MONGODB_URI` and `MONGODB_DB_NAME` — recommended for persistent content storage
+
+Redeploy after adding or changing environment variables. The local `.env` file is not uploaded to Vercel.
 
 ## Project Structure
 
