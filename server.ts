@@ -138,7 +138,7 @@ async function initializeDatabase() {
   }
 
   try {
-    mongoClient = new MongoClient(MONGODB_URI);
+    mongoClient = new MongoClient(MONGODB_URI, { serverSelectionTimeoutMS: 5000 });
     await mongoClient.connect();
     mongoCollection = mongoClient.db(MONGODB_DB_NAME).collection<StoredDatabase>("site_state");
     const stored = await mongoCollection.findOne({ key: "primary" });

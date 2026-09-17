@@ -3,8 +3,7 @@ import { app, initializeDatabase } from "../server";
 
 let databaseReady: Promise<void> | undefined;
 
-export default async function handler(req: Request, res: Response) {
-  databaseReady ??= initializeDatabase();
-  await databaseReady;
+export default function handler(req: Request, res: Response) {
+  databaseReady ??= initializeDatabase().catch(() => undefined);
   return app(req, res);
 }
